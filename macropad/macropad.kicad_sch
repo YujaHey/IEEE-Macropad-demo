@@ -2585,6 +2585,14 @@
 		(color 0 0 0 0)
 		(uuid "f73363cb-2712-4383-8e66-9c20ede5dfe2")
 	)
+	(no_connect
+		(at 50.8 27.94)
+		(uuid "34c8bff3-c981-4aee-a029-35ef2bf50579")
+	)
+	(no_connect
+		(at 50.8 38.1)
+		(uuid "d4c6f135-d6a9-44ea-a2f7-f1a191aa31dd")
+	)
 	(wire
 		(pts
 			(xy 101.6 64.77) (xy 101.6 63.5)
@@ -5271,7 +5279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFP:TQFP-44_10x10mm_P0.8mm"
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 78.74 60.96 0)
 			(effects
 				(font
